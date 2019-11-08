@@ -37,10 +37,10 @@ fields:
 - name: featured
   type: boolean
   label: featured
-  hidden: true
+  hidden: false
 - name: hidden
   type: boolean
   label: hidden
-  hidden: true
+  hidden: false
 pages:
 - _posts/2019-11-08-դառգետը-գարեջրատուն.md
