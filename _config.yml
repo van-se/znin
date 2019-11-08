@@ -1,34 +1,36 @@
 # Site
 name: "Զնին.հայ"
 title: "Զնին.հայ"
-description: "քննադատական կարծիքներ տեղական ծառաիւթիւննեի մասին"
+description: "առաջին հայալեզու քննախօսական կայքը"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-disqus: 'demowebsite'
+disqus: 'znin-hay'
 include: ["_pages"]
 permalink: /:title/
 theme: mediumish-theme-jekyll
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  tigran:
+    name: Տիգրան
+    display_name: Տիգրան
+    avatar: 'assets/images/tigran.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    twitter: https://twitter.com/_tigransimonyan
+    description: ''
+  zythepsary:
+    name: Սեաւ
+    display_name: Սեաւ    
+    avatar: 'assets/images/zythepsary.jpg'
+    gravatar: b1cc14991db7a456fcd761780bbc8f81
+    description: ''
+  mutabor:
+    name: Մութաբոր
+    display_name: Մութաբոր
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: ''
+
 
 # Plugins
 plugins:
