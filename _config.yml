@@ -24,6 +24,12 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     description: ""
+  mutabor:
+    name: Մութաբոր
+    display_name: Մութաբոր    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    description: ""
 
 
 # Plugins
