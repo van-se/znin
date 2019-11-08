@@ -10,8 +10,20 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - tigran
+    - zythepsary
+    - mutabor
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: author
 - type: list
   name: categories
