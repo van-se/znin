@@ -7,10 +7,6 @@ fields:
   label: layout
   default: post
   hidden: true
-- name: hidden
-  type: boolean
-  label: hidden
-  default: true
 - type: text
   name: title
   label: title
