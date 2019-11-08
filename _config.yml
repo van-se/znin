@@ -4,7 +4,7 @@ title: "Զնին.հայ"
 description: "առաջին հայալեզու քննախօսական կայքը"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: http://xn--39ak6ab.xn--y9a3aq/
+baseurl: /
 disqus: 'znin-hay'
 include: ["_pages"]
 permalink: /:title/
