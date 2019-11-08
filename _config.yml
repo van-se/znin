@@ -8,7 +8,7 @@ baseurl: /
 disqus: 'znin-hay'
 include: ["_pages"]
 permalink: /:title/
-remote_theme: mediumish-theme-jekyll
+theme: mediumish-theme-jekyll
 
 # Authors
 authors:
