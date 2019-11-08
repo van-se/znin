@@ -1,11 +1,11 @@
 # Site
 name: "Զնին.հայ"
 title: "Զնին.հայ"
-description: "քննադատական կարծիքներ տեղական ծառաիւթիւննեի մասին"
+description: "առաջին հայալեզու քննախօսական կայքը"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-disqus: 'demowebsite'
+disqus: 'znin-hay'
 include: ["_pages"]
 permalink: /:title/
 theme: mediumish-theme-jekyll
@@ -15,21 +15,21 @@ authors:
   tigran:
     name: Տիգրան
     display_name: Տիգրան
+    avatar: 'assets/images/tigran.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     twitter: https://twitter.com/_tigransimonyan
-    description: ""
+    description: ''
   zythepsary:
     name: Սեաւ
     display_name: Սեաւ    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    description: ""
+    avatar: 'assets/images/zythepsary.jpg'
+    gravatar: b1cc14991db7a456fcd761780bbc8f81
+    description: ''
   mutabor:
     name: Մութաբոր
-    display_name: Մութաբոր    
-    avatar: 'assets/images/avatar.png'
+    display_name: Մութաբոր
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    description: ""
+    description: ''
 
 
 # Plugins
