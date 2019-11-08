@@ -34,5 +34,13 @@ fields:
 - type: number
   name: rating
   label: rating
+- name: featured
+  type: boolean
+  label: featured
+  hidden: true
+- name: hidden
+  type: boolean
+  label: hidden
+  hidden: true
 pages:
 - _posts/2019-11-08-դառգետը-գարեջրատուն.md
