@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 disqus: 'znin-hay'
 include: ["_pages"]
 permalink: /:title/
-remote_theme: tigransimonyan/znin
+theme: mediumish-theme-jekyll
 
 # Authors
 authors:
