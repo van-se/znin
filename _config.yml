@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 disqus: 'znin-hay'
 google_analytics: 'UA-151918233-1'
 include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:title/
 theme: mediumish-theme-jekyll
 
 # Authors
