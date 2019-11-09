@@ -42,3 +42,5 @@ fields:
   type: boolean
   label: hidden
   hidden: false
+pages:
+- _posts/սոհո-հրուշակեղեն-ու-շոկոլադեղեն.md
