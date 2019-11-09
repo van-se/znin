@@ -29,7 +29,7 @@ authors:
     name: Մութաբոր
     display_name: Մութաբոր
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    description: 'Արուեստամոլ, երաժշտասէր, լեզուասէր, եպիկուրեան, նրբաստամոքս, քմաճաշակ, մաշտոցեան ուղղագրութեան ռահվիրայ։'
+    description: 'Արուեստամոլ, երաժշտասէր, փոխարդիապաշտ, եպիկուրեան, նրբաստամոքս, քմաճաշակ, բազմա- եւ յոգնաբարբառ, մաշտոցեան ուղղագրութեան ռահվիրայ։'
 
 
 # Plugins
@@ -46,7 +46,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/ստորոգութիւն/:name/'
+    category: '/category/:name/'
     
 # Pagination 
 paginate: 6
