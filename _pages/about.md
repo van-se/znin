@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Մեր մասին
-permalink: /about
+permalink: /մասին
 comments: false
 ---
 

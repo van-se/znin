@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: Ստորոգութիւններ
-permalink: /categories
+permalink: /ստորոգութիւններ
 ---
