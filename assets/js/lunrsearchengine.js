@@ -32,7 +32,7 @@ function lunr_search(event) {
     if(term) {
         document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Որոնման արդիւնքները</h5>" + document.getElementById('modtit').innerHTML;
         //put results on the screen.   
-        for(var i = 0; i < documents.length; r++){
+        for(var i = 0; i < documents.length; i++){
             if(documents[i]['title'].indexOf(term) >= 0 || documents[i]['body'].indexOf(term) >= 0){
                 var url = documents[i]['url'];
                 var title = documents[i]['title'];
